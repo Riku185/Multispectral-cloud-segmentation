@@ -3,6 +3,10 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# dataset folders
+data/raw/images/
+data/raw/masks/
+
 # C extensions
 *.so
 
