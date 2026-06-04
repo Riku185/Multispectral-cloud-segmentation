@@ -112,7 +112,7 @@ The datasets can be downloaded directly from their official providers using the 
 
 ## Training Summary
 
-- Trained on approximately 1700+ image-mask pairs
+- Trained on approximately 3500+ image-mask pairs
 - Early stopping triggered after 28 epochs
 - Successfully learned:
   - Cloud regions
